@@ -1,0 +1,22 @@
+.tempo {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.botoes-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.start, .pause, .restart {
+    width: 100px;
+}
+
+.botao-start, .botao-pause, .botao-restart {
+    border: none;
+    background-color: #0000;
+}
